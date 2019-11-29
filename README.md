@@ -33,7 +33,7 @@
 [Federated Learning with Non-IID Data](https://arxiv.org/abs/1806.00582) <br>
 [Distributed Fine-tuning of Language Models on Private Data](https://openreview.net/pdf?id=HkgNdt26Z), ICLR <br>
 [Federated Learning Based Proactive Content Caching in Edge Computing](https://ieeexplore.ieee.org/abstract/document/8647616), IEEE GLOBECOM <br>
-[When Edge Meets Learning: Adaptive Control for Resource-Constrained Distributed Machine Learning] <br>(http://www.commsp.ee.ic.ac.uk/~wiser/dais-ita/tiffany_papers/infocom_2018.pdf), IEEE Infocom <br>
+[When Edge Meets Learning: Adaptive Control for Resource-Constrained Distributed Machine Learning](http://www.commsp.ee.ic.ac.uk/~wiser/dais-ita/tiffany_papers/infocom_2018.pdf), IEEE Infocom <br>
 [How To Backdoor Federated Learning](https://arxiv.org/abs/1807.00459) <br>
 [LEAF: A Benchmark for Federated Settings](https://arxiv.org/abs/1812.01097) <br>
 > ### 2017
