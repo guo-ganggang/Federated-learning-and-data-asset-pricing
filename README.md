@@ -63,3 +63,4 @@
 [PySyft](https://github.com/coMindOrg/PySyft)
 [federated-averaging-tutorials](https://github.com/coMindOrg/federated-averaging-tutorials)
 [Google-TensorFlow Federated](https://github.com/tensorflow/federated)
+[PyTorch Federated Learning](https://github.com/shaoxiongji/federated-learning)
