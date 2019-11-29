@@ -64,3 +64,6 @@
 [federated-averaging-tutorials](https://github.com/coMindOrg/federated-averaging-tutorials) <br>
 [Google-TensorFlow Federated](https://github.com/tensorflow/federated) <br>
 [PyTorch Federated Learning](https://github.com/shaoxiongji/federated-learning) <br>
+## Datasets
+----
+[Leaf: A Benchmark for Federated Settings](https://github.com/TalwalkarLab/leaf)
