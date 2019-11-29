@@ -7,12 +7,12 @@
 [Convergence of Edge Computing and Deep Learning: A Comprehensive Survey](https://arxiv.org/pdf/1907.08349.pdf), preprint, 2019 <br>
 ## Research Papers
 ----
-* ### 2019
-----
-* #### Finance
+  * ### 2019
+  ----
+    * #### Finance
 [FFD: A Federated Learning Based Method for Credit Card Fraud Detection](https://link.springer.com/chapter/10.1007/978-3-030-23551-2_2), International Conference on Big Data <br>
 [Federated Learning for Time Series Forecasting Using LSTM Networks: Exploiting Similarities Through Clustering](https://pdfs.semanticscholar.org/ea41/01aa3f6308141ad75a28e2dc3d829a02cf97.pdf), Student thesis, KTH <br>
-* #### Others
+    * #### Others
 [Decentralized Federated Learning: A Segmented Gossip Approach](https://arxiv.org/abs/1908.07782), FML <br>
 [Federated Learning-Based Computation Offloading Optimization in Edge Computing-Supported Internet of Things](https://ieeexplore.ieee.org/document/8728285), IEEE Access <br>
 [Federated Learning for Emoji Prediction in a Mobile Keyboard](https://arxiv.org/abs/1906.04329), preprint <br>
@@ -27,6 +27,6 @@
 [Towards Federated Learning at Scale: System Design](https://arxiv.org/abs/1902.01046) <br>
 [Agnostic Federated Learning](https://arxiv.org/abs/1902.00146) <br>
 [Peer-to-peer Federated Learning on Graphs](https://arxiv.org/abs/1901.11173) <br>
-* ### 2018
-----
+  * ### 2018
+  ----
 
