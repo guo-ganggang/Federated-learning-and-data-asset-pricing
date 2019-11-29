@@ -8,7 +8,6 @@
 ## Research Papers
 ----
 > ### 2019
-----
 >> #### Finance
 [FFD: A Federated Learning Based Method for Credit Card Fraud Detection](https://link.springer.com/chapter/10.1007/978-3-030-23551-2_2), International Conference on Big Data <br>
 [Federated Learning for Time Series Forecasting Using LSTM Networks: Exploiting Similarities Through Clustering](https://pdfs.semanticscholar.org/ea41/01aa3f6308141ad75a28e2dc3d829a02cf97.pdf), Student thesis, KTH <br>
@@ -28,7 +27,6 @@
 [Agnostic Federated Learning](https://arxiv.org/abs/1902.00146) preprint <br>
 [Peer-to-peer Federated Learning on Graphs](https://arxiv.org/abs/1901.11173) preprint <br>
 > ### 2018
-----
 [How to backdoor federated learning](https://arxiv.org/pdf/1807.00459.pdf), preprint <br>
 [Client Selection for Federated Learning with Heterogeneous Resources in Mobile Edge](https://arxiv.org/abs/1804.08333) <br>
 [Federated Kernelized Multi-Task Learning](http://www.sysml.cc/doc/30.pdf) <br>
@@ -39,18 +37,21 @@
 [How To Backdoor Federated Learning](https://arxiv.org/abs/1807.00459) <br>
 [LEAF: A Benchmark for Federated Settings](https://arxiv.org/abs/1812.01097) <br>
 > ### 2017
-----
 [Communication-Efficient Learning of Deep Networks from Decentralized Data](https://arxiv.org/abs/1602.05629), AISTATS 2017 <br>
 [Differentially Private Federated Learning: A Client Level Perspective](https://arxiv.org/abs/1712.07557), NIPS 2017 Workshop <br>
 [Federated Tensor Factorization for Computational Phenotyping](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5652331/), KDD 2017 <br>
 [Federated Multi-Task Learning](http://papers.nips.cc/paper/7029-federated-multi-task-learning.pdf), NIPS 2017 <br>
 > ### 2016
-----
 [Practical Secure Aggregation for Federated Learning on User-Held Data](https://arxiv.org/abs/1611.04482) <br>
 [Federated Learning: Strategies for Improving Communication Efficiency](https://arxiv.org/abs/1610.05492) <br>
 > ### 2015
-----
 [Privacy-Preserving Deep Learning](https://www.comp.nus.edu.sg/~reza/files/Shokri-CCS2015.pdf), ACM SIGSAC 2015 <br>
-> ## Blogs
+## Blogs
 ----
+[Online Comic from Google AI on Federated Learning](https://federated.withgoogle.com/)
+[Federated Learning: Collaborative Machine Learning without Centralized Training Data](https://ai.googleblog.com/2017/04/federated-learning-collaborative.html)
+[An Introduction to Federated Learning](https://blog.cloudera.com/cdp-data-center-better-safer-data-analytics-from-the-edge-to-ai/)
+[Federated learning: Distributed machine learning with data locality and privacy](https://blog.fastforwardlabs.com/2018/11/14/federated-learning.html)
+[Federated Learning: The Future of Distributed Machine Learning](https://medium.com/syncedreview/federated-learning-the-future-of-distributed-machine-learning-eec95242d897)
+[Federated Learning for Wake Word Detection](Federated Learning for Wake Word Detection)
 
