@@ -57,10 +57,10 @@
 [机器之心专访杨强教授：联邦迁移学习与金融领域的AI落地](https://www.jiqizhixin.com/articles/2018-08-01-6) <br>
 [联邦智能为开放银行注入新活力！](https://mp.weixin.qq.com/s?src=11&timestamp=1575022615&ver=2004&signature=ReUeobDDgFAXVH7tfJctzKLCWlAWgKbsMIXBa2hSVNlkYIdfolZJ4i5wt2etStYYHdw8HeKZEMQoU1olh1iPJqdc8OikCEF2MuKSRxccoqnxKbDMEnkM8apDl*vrzdWY&new=1) <br>
 [六大联邦学习平台齐头并进——主流联邦学习平台简介](https://mp.weixin.qq.com/s?src=11&timestamp=1575022804&ver=2004&signature=ReUeobDDgFAXVH7tfJctzKLCWlAWgKbsMIXBa2hSVNlJ6cfxsZmAqAZ8LhMXgFBJiIzFeb7bjMarC3DIW36PC4yUlfvi2dAqXQXKW2ytscahDrL62qJv3q5GBEoWM52t&new=1) <br>
-## Libraries
+## Platforms
 ----
-[WeBankFinTech](https://github.com/WeBankFinTech/FATE)
-[PySyft](https://github.com/coMindOrg/PySyft)
-[federated-averaging-tutorials](https://github.com/coMindOrg/federated-averaging-tutorials)
-[Google-TensorFlow Federated](https://github.com/tensorflow/federated)
-[PyTorch Federated Learning](https://github.com/shaoxiongji/federated-learning)
+[WeBankFinTech](https://github.com/WeBankFinTech/FATE) <br>
+[PySyft](https://github.com/coMindOrg/PySyft) <br>
+[federated-averaging-tutorials](https://github.com/coMindOrg/federated-averaging-tutorials) <br>
+[Google-TensorFlow Federated](https://github.com/tensorflow/federated) <br>
+[PyTorch Federated Learning](https://github.com/shaoxiongji/federated-learning) <br>
