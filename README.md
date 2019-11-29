@@ -66,4 +66,4 @@
 [PyTorch Federated Learning](https://github.com/shaoxiongji/federated-learning) <br>
 ## Datasets
 ----
-[Leaf: A Benchmark for Federated Settings](https://github.com/TalwalkarLab/leaf)
+[Leaf: A Benchmark for Federated Settings](https://github.com/TalwalkarLab/leaf) <br>
