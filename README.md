@@ -48,10 +48,10 @@
 [Privacy-Preserving Deep Learning](https://www.comp.nus.edu.sg/~reza/files/Shokri-CCS2015.pdf), ACM SIGSAC 2015 <br>
 ## Blogs
 ----
-[Online Comic from Google AI on Federated Learning](https://federated.withgoogle.com/)
-[Federated Learning: Collaborative Machine Learning without Centralized Training Data](https://ai.googleblog.com/2017/04/federated-learning-collaborative.html)
-[An Introduction to Federated Learning](https://blog.cloudera.com/cdp-data-center-better-safer-data-analytics-from-the-edge-to-ai/)
-[Federated learning: Distributed machine learning with data locality and privacy](https://blog.fastforwardlabs.com/2018/11/14/federated-learning.html)
-[Federated Learning: The Future of Distributed Machine Learning](https://medium.com/syncedreview/federated-learning-the-future-of-distributed-machine-learning-eec95242d897)
-[Federated Learning for Wake Word Detection](Federated Learning for Wake Word Detection)
+[Online Comic from Google AI on Federated Learning](https://federated.withgoogle.com/) <br>
+[Federated Learning: Collaborative Machine Learning without Centralized Training Data](https://ai.googleblog.com/2017/04/federated-learning-collaborative.html) <br>
+[An Introduction to Federated Learning](https://blog.cloudera.com/cdp-data-center-better-safer-data-analytics-from-the-edge-to-ai/) <br>
+[Federated learning: Distributed machine learning with data locality and privacy](https://blog.fastforwardlabs.com/2018/11/14/federated-learning.html) <br>
+[Federated Learning: The Future of Distributed Machine Learning](https://medium.com/syncedreview/federated-learning-the-future-of-distributed-machine-learning-eec95242d897) <br>
+[Federated Learning for Wake Word Detection](https://medium.com/snips-ai/federated-learning-for-wake-word-detection-c8b8c5cdd2c5) <br>
 
