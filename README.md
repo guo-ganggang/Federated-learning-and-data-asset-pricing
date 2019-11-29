@@ -7,12 +7,12 @@
 [Convergence of Edge Computing and Deep Learning: A Comprehensive Survey](https://arxiv.org/pdf/1907.08349.pdf), preprint, 2019 <br>
 ## Research Papers
 ----
-  * ### 2019
-  ----
-    * #### Finance
+### 2019
+----
+#### Finance
 [FFD: A Federated Learning Based Method for Credit Card Fraud Detection](https://link.springer.com/chapter/10.1007/978-3-030-23551-2_2), International Conference on Big Data <br>
 [Federated Learning for Time Series Forecasting Using LSTM Networks: Exploiting Similarities Through Clustering](https://pdfs.semanticscholar.org/ea41/01aa3f6308141ad75a28e2dc3d829a02cf97.pdf), Student thesis, KTH <br>
-    * #### Others
+#### Others
 [Decentralized Federated Learning: A Segmented Gossip Approach](https://arxiv.org/abs/1908.07782), FML <br>
 [Federated Learning-Based Computation Offloading Optimization in Edge Computing-Supported Internet of Things](https://ieeexplore.ieee.org/document/8728285), IEEE Access <br>
 [Federated Learning for Emoji Prediction in a Mobile Keyboard](https://arxiv.org/abs/1906.04329), preprint <br>
@@ -25,8 +25,30 @@
 [Learning Private Neural Language Modeling with Attentive Aggregation](https://arxiv.org/pdf/1812.07108.pdf), IJCNN <br>
 [Federated Learning of Out-of-Vocabulary Words](https://arxiv.org/pdf/1903.10635.pdf) <br>
 [Towards Federated Learning at Scale: System Design](https://arxiv.org/abs/1902.01046) <br>
-[Agnostic Federated Learning](https://arxiv.org/abs/1902.00146) <br>
-[Peer-to-peer Federated Learning on Graphs](https://arxiv.org/abs/1901.11173) <br>
-  * ### 2018
-  ----
+[Agnostic Federated Learning](https://arxiv.org/abs/1902.00146) preprint <br>
+[Peer-to-peer Federated Learning on Graphs](https://arxiv.org/abs/1901.11173) preprint <br>
+### 2018
+----
+[How to backdoor federated learning](https://arxiv.org/pdf/1807.00459.pdf), preprint
+[Client Selection for Federated Learning with Heterogeneous Resources in Mobile Edge](https://arxiv.org/abs/1804.08333)
+[Federated Kernelized Multi-Task Learning](http://www.sysml.cc/doc/30.pdf)
+[Federated Learning with Non-IID Data](https://arxiv.org/abs/1806.00582)
+[Distributed Fine-tuning of Language Models on Private Data](https://openreview.net/pdf?id=HkgNdt26Z), ICLR
+[Federated Learning Based Proactive Content Caching in Edge Computing](https://ieeexplore.ieee.org/abstract/document/8647616), IEEE GLOBECOM
+[When Edge Meets Learning: Adaptive Control for Resource-Constrained Distributed Machine Learning](http://www.commsp.ee.ic.ac.uk/~wiser/dais-ita/tiffany_papers/infocom_2018.pdf), IEEE Infocom
+[How To Backdoor Federated Learning](https://arxiv.org/abs/1807.00459)
+[LEAF: A Benchmark for Federated Settings](https://arxiv.org/abs/1812.01097)
+### 2017
+----
+[Communication-Efficient Learning of Deep Networks from Decentralized Data](https://arxiv.org/abs/1602.05629), AISTATS 2017
+[Differentially Private Federated Learning: A Client Level Perspective](https://arxiv.org/abs/1712.07557), NIPS 2017 Workshop
+[Federated Tensor Factorization for Computational Phenotyping](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5652331/), KDD 2017
+[Federated Multi-Task Learning](http://papers.nips.cc/paper/7029-federated-multi-task-learning.pdf), NIPS 2017
+### 2016
+----
+[Practical Secure Aggregation for Federated Learning on User-Held Data](https://arxiv.org/abs/1611.04482)
+[Federated Learning: Strategies for Improving Communication Efficiency](https://arxiv.org/abs/1610.05492)
+### 2015
+----
+[Privacy-Preserving Deep Learning](https://www.comp.nus.edu.sg/~reza/files/Shokri-CCS2015.pdf), ACM SIGSAC 2015
 
