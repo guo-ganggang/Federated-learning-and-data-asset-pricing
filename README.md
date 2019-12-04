@@ -63,8 +63,8 @@
 ### Federated Learning in Wireless Networks
 ### System and Algorithm Co-design
 ### Federated Learning and Blockchain
-[Blockchained On-Device Federated Learning](https://www.researchgate.net/publication/333719659_Blockchained_On-Device_Federated_Learning) <br>
-[FLchain: Federated Learning via MEC-enabled Blockchain Network](https://www.researchgate.net/publication/336019799_FLchain_Federated_Learning_via_MEC-enabled_Blockchain_Network) <br>
+[Blockchained On-Device Federated Learning](https://www.researchgate.net/publication/333719659_Blockchained_On-Device_Federated_Learning) Jun. 2019.<br>
+[FLchain: Federated Learning via MEC-enabled Blockchain Network](https://www.researchgate.net/publication/336019799_FLchain_Federated_Learning_via_MEC-enabled_Blockchain_Network) Sep. 2019.<br>
 
 ### Privacy and Security
 ### Incentive Mechanism
