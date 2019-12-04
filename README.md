@@ -4,8 +4,15 @@
 [Federated Machine Learning: Concept and Applications](https://dl.acm.org/citation.cfm?id=3298981), ACM TIST 2019 <br>
 [Federated Learning Systems: Vision, Hype and Reality for Data Privacy and Protection](https://arxiv.org/pdf/1907.09693.pdf), 2019 <br>
 [Federated Learning: Challenges, Methods, and Future Directions](https://arxiv.org/pdf/1908.07873.pdf), 2019 <br>
-[Convergence of Edge Computing and Deep Learning: A Comprehensive Survey](https://arxiv.org/pdf/1907.08349.pdf), preprint, 2019 <br>
-## Research Papers
+[Federated Learning for Wireless Communications: Motivation, Opportunities and Challenges](https://link.zhihu.com/?target=https%3A//arxiv.org/abs/1908.06847), preprint, 2019 <br>
+[Federated Learning in Mobile Edge Networks: A Comprehensive Survey](https://arxiv.org/abs/1909.11875), 2019 <br>
+[Machine Learning Systems for Highly-Distributed and Rapidly-Growing Data](https://arxiv.org/abs/1910.08663), 2019 <br>
+[EdgeAI: A Vision for Deep Learning in IoT Era](https://arxiv.org/abs/1910.10356), 2019 <br>
+[Machine Learning Systems for Highly-Distributed and Rapidly-Growing Data](https://arxiv.org/abs/1910.08663), 2019 <br>
+[No Peek: A Survey of private distributed deep learning](https://arxiv.org/abs/1812.03288), 2018 <br>
+[CCCF专栏 | 联邦学习](https://mp.weixin.qq.com/s?__biz=MjM5MTY5ODE4OQ==&mid=2651453786&idx=1&sn=1f189cbb8ff159428d65e100fdb5dc77&scene=21), 2019 <br>
+
+## Research Papers by year
 ----
 > ### 2019
 >> #### Finance
@@ -46,6 +53,28 @@
 [Federated Learning: Strategies for Improving Communication Efficiency](https://arxiv.org/abs/1610.05492) <br>
 > ### 2015
 [Privacy-Preserving Deep Learning](https://www.comp.nus.edu.sg/~reza/files/Shokri-CCS2015.pdf), ACM SIGSAC 2015 <br>
+
+## Research Papers by content
+----
+[Skip Instruction](https://zhuanlan.zhihu.com/p/87777798)
+### Federated Optimization
+### Communication Efficiency
+### Federated Learning in Wireless Networks
+### System and Algorithm Co-design
+### Federated Learning and Blockchain
+[Blockchained On-Device Federated Learning](https://www.researchgate.net/publication/333719659_Blockchained_On-Device_Federated_Learning) <br>
+[FLchain: Federated Learning via MEC-enabled Blockchain Network](https://www.researchgate.net/publication/336019799_FLchain_Federated_Learning_via_MEC-enabled_Blockchain_Network) <br>
+
+### Privacy and Security
+### Incentive Mechanism
+### Vertical Federated Learning
+### Federated Transfer Learning
+### Federated Multi-Task Learning
+### Federated Meta-Learning
+### Federated Distillation
+### Federated Reinforcement Learning
+### Applications
+
 ## Blogs
 ----
 [Online Comic from Google AI on Federated Learning](https://federated.withgoogle.com/) <br>
@@ -67,4 +96,5 @@
 [PyTorch Federated Learning](https://github.com/shaoxiongji/federated-learning) <br>
 ## Datasets
 ----
-[Leaf: A Benchmark for Federated Settings](https://github.com/TalwalkarLab/leaf) <br>
+[Leaf: A Benchmark for Federated Settings](https://github.com/TalwalkarLab/leaf)  Jul. 2019<br>
+[FedVision - Street Dataset](https://dataset.fedai.org/#/) Oct. 2019<br>
