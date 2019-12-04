@@ -5,6 +5,7 @@
 [Federated Learning Systems: Vision, Hype and Reality for Data Privacy and Protection](https://arxiv.org/pdf/1907.09693.pdf), 2019 <br>
 [Federated Learning: Challenges, Methods, and Future Directions](https://arxiv.org/pdf/1908.07873.pdf), 2019 <br>
 [Federated Learning for Wireless Communications: Motivation, Opportunities and Challenges](https://link.zhihu.com/?target=https%3A//arxiv.org/abs/1908.06847), preprint, 2019 <br>
+[Convergence of Edge Computing and Deep Learning: A Comprehensive Survey](https://arxiv.org/pdf/1907.08349.pdf), 2019 <br>
 [Federated Learning in Mobile Edge Networks: A Comprehensive Survey](https://arxiv.org/abs/1909.11875), 2019 <br>
 [Machine Learning Systems for Highly-Distributed and Rapidly-Growing Data](https://arxiv.org/abs/1910.08663), 2019 <br>
 [EdgeAI: A Vision for Deep Learning in IoT Era](https://arxiv.org/abs/1910.10356), 2019 <br>
@@ -74,6 +75,18 @@
 ### Federated Distillation
 ### Federated Reinforcement Learning
 ### Applications
+
+## Tutorials
+[Qiang Yang, Federated Machine Learning Aug. 2019](https://link.zhihu.com/?target=https%3A//img.fedai.org.cn/fedweb/1566285582852.pdf) <br>
+[Qiang Yang, GDPR, Data Shortage and AI Jan. 2019](https://img.fedai.org.cn/fedweb/1552916659436.pdf) <br>
+[Yang Liu, Qiang Yang, Federated Learning: User Privacy, Data Security and Confidentiality in Machine Learning](https://img.fedai.org.cn/fedweb/1552916850679.pdf) <br>
+[H. Brendan McMahan, "Federated Learning: From Research to Practice Sep. 2019](https://www.pdl.cmu.edu/SDI/2019/slides/2019-09-05Federated%20Learning.pdf) <br>
+[Google Workshop on Federated Learning and Analytics, Jun. 2019.](https://sites.google.com/view/federated-learning-2019/home) <br>
+[Google AI, "Federated Learning"](https://federated.withgoogle.com/) <br>
+[Eric Tramel, "Federated Learning: Rewards & Challenges of Distributed Private ML May 2019.](https://www.infoq.com/presentations/federated-learning-distributed-ml/) <br>
+[刘洋，范涛，“联邦学习的研究与应用”，Mar. 2019.](https://img.fedai.org.cn/fedweb/1553845987342.pdf) <br>
+[范涛，“FATE：新一代联邦学习技术及应用实战”，Jul. 2019.](https://img.fedai.org.cn/fedweb/1565748921396.pdf) <br>
+[曾纪策，“构建端到端的联邦学习Pipeline生产服务”，Jul. 2019.](https://img.fedai.org.cn/fedweb/1565770899777.pdf) <br>
 
 ## Blogs
 ----
