@@ -54,6 +54,7 @@
 [Federated learning: Distributed machine learning with data locality and privacy](https://blog.fastforwardlabs.com/2018/11/14/federated-learning.html) <br>
 [Federated Learning: The Future of Distributed Machine Learning](https://medium.com/syncedreview/federated-learning-the-future-of-distributed-machine-learning-eec95242d897) <br>
 [Federated Learning for Wake Word Detection](https://medium.com/snips-ai/federated-learning-for-wake-word-detection-c8b8c5cdd2c5) <br>
+[A look at its history, potential, progress, and challenges](https://makerspace.aisingapore.org/2019/04/an-overview-of-federated-learning/) <br>
 [机器之心专访杨强教授：联邦迁移学习与金融领域的AI落地](https://www.jiqizhixin.com/articles/2018-08-01-6) <br>
 [联邦智能为开放银行注入新活力！](https://mp.weixin.qq.com/s?src=11&timestamp=1575022615&ver=2004&signature=ReUeobDDgFAXVH7tfJctzKLCWlAWgKbsMIXBa2hSVNlkYIdfolZJ4i5wt2etStYYHdw8HeKZEMQoU1olh1iPJqdc8OikCEF2MuKSRxccoqnxKbDMEnkM8apDl*vrzdWY&new=1) <br>
 [六大联邦学习平台齐头并进——主流联邦学习平台简介](https://mp.weixin.qq.com/s?src=11&timestamp=1575022804&ver=2004&signature=ReUeobDDgFAXVH7tfJctzKLCWlAWgKbsMIXBa2hSVNlJ6cfxsZmAqAZ8LhMXgFBJiIzFeb7bjMarC3DIW36PC4yUlfvi2dAqXQXKW2ytscahDrL62qJv3q5GBEoWM52t&new=1) <br>
