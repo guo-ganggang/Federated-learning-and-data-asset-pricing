@@ -102,6 +102,7 @@
 [六大联邦学习平台齐头并进——主流联邦学习平台简介](https://mp.weixin.qq.com/s?src=11&timestamp=1575022804&ver=2004&signature=ReUeobDDgFAXVH7tfJctzKLCWlAWgKbsMIXBa2hSVNlJ6cfxsZmAqAZ8LhMXgFBJiIzFeb7bjMarC3DIW36PC4yUlfvi2dAqXQXKW2ytscahDrL62qJv3q5GBEoWM52t&new=1) <br>
 [深挖金融营销痛点，微众银行首创联邦广告与联邦推荐](http://www.kejilie.com/leiphone/article/YVnUZn.html) <br>
 [基于联邦学习新技术连接数据孤岛](https://myslide.cn/slides/21394) <br>
+[携手英特尔 平安科技要做联邦智能生态的共创者](http://smartcity.zol.com.cn/728/7283601.html) <br>
 
 ## Platforms
 ----
