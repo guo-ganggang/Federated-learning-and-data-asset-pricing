@@ -1,4 +1,4 @@
-# SURVEY FOR FL
+# References on Federated Learning
 ## Survey papers
 ----
 [Federated Machine Learning: Concept and Applications](https://dl.acm.org/citation.cfm?id=3298981), ACM TIST 2019 <br>
