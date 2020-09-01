@@ -1,12 +1,15 @@
 # References on Federated Learning
 ## Survey papers
 ----
+[Threats to federated learning: A survey](https://arxiv.org/pdf/2003.02133.pdf), 2020 <br>
+[Survey of Personalization Techniques for Federated Learning](https://arxiv.org/pdf/2003.08673.pdf), 2020 <br>
+[A Survey on Federated Learning Systems: Vision, Hype and Reality for Data Privacy and Protection](https://qinbinli.com/files/FLSurvey.pdf), 2020 <br>
 [Federated Machine Learning: Concept and Applications](https://dl.acm.org/citation.cfm?id=3298981), ACM TIST 2019 <br>
 [Federated Learning Systems: Vision, Hype and Reality for Data Privacy and Protection](https://arxiv.org/pdf/1907.09693.pdf), 2019 <br>
 [Federated Learning: Challenges, Methods, and Future Directions](https://arxiv.org/pdf/1908.07873.pdf), 2019 <br>
-[Federated Learning for Wireless Communications: Motivation, Opportunities and Challenges](https://link.zhihu.com/?target=https%3A//arxiv.org/abs/1908.06847), preprint, 2019 <br>
+[Federated Learning in Mobile Edge Networks: A Comprehensive Survey](https://arxiv.org/pdf/1909.11875.pdf), 2019 <br>
+[Federated Learning for Wireless Communications: Motivation, Opportunities and Challenges](https://arxiv.org/pdf/1908.06847.pdf), 2019 <br>
 [Convergence of Edge Computing and Deep Learning: A Comprehensive Survey](https://arxiv.org/pdf/1907.08349.pdf), 2019 <br>
-[Federated Learning in Mobile Edge Networks: A Comprehensive Survey](https://arxiv.org/abs/1909.11875), 2019 <br>
 [Machine Learning Systems for Highly-Distributed and Rapidly-Growing Data](https://arxiv.org/abs/1910.08663), 2019 <br>
 [EdgeAI: A Vision for Deep Learning in IoT Era](https://arxiv.org/abs/1910.10356), 2019 <br>
 [Machine Learning Systems for Highly-Distributed and Rapidly-Growing Data](https://arxiv.org/abs/1910.08663), 2019 <br>
