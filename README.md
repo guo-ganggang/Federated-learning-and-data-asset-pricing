@@ -109,6 +109,13 @@
 [干货|杨强教授联邦学习公开课视频及问答整理](https://blog.csdn.net/weixin_45439861/article/details/105665554) <br>
 [CCCF专栏 | 联邦学习](https://mp.weixin.qq.com/s?__biz=MjM5MTY5ODE4OQ==&mid=2651453786&idx=1&sn=1f189cbb8ff159428d65e100fdb5dc77&scene=21), 2019 <br>
 
+## Book
+----
+[Qiang Yang, Yang Liu, Yong Cheng, Yan Kang, Tianjian Chen, and Han Yu, "Federated Learning", Morgan & Claypool, Dec. 2019](https://www.amazon.com/Federated-Learning-Synthesis-Artificial-Intelligence/dp/1681736977/) <br>
+[e-book](https://www.morganclaypoolpublishers.com/catalog_Orig/product_info.php?products_id=1494) <br>
+[杨强，刘洋，程勇，康焱，陈天健，于涵，《联邦学习》，电子工业出版社，2020年5月。](https://item.jd.com/12649191.html) <br>
+
+
 ## Platforms
 ----
 [WeBankFinTech](https://github.com/WeBankFinTech/FATE) <br>
