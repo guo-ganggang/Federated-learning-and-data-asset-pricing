@@ -108,6 +108,10 @@
 [AI落地遭“卡脖子”困境：为什么说联邦学习是解决良方？](http://smartcity.zol.com.cn/728/7283601.html) <br>
 [干货|杨强教授联邦学习公开课视频及问答整理](https://blog.csdn.net/weixin_45439861/article/details/105665554) <br>
 [CCCF专栏 | 联邦学习](https://mp.weixin.qq.com/s?__biz=MjM5MTY5ODE4OQ==&mid=2651453786&idx=1&sn=1f189cbb8ff159428d65e100fdb5dc77&scene=21), 2019 <br>
+[李宏宇，雷锋网公开课，知识联邦：开创数据“可用不可见”新局面, Apr. 2020](https://www.leiphone.com/news/202005/NYoNIeUGOhVT1yCT.html) <br>
+
+
+
 
 ## Book
 ----
