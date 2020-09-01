@@ -104,6 +104,7 @@
 [基于联邦学习新技术连接数据孤岛](https://myslide.cn/slides/21394) <br>
 [携手英特尔 平安科技要做联邦智能生态的共创者](http://smartcity.zol.com.cn/728/7283601.html) <br>
 [AI落地遭“卡脖子”困境：为什么说联邦学习是解决良方？](http://smartcity.zol.com.cn/728/7283601.html) <br>
+[干货|杨强教授联邦学习公开课视频及问答整理](https://blog.csdn.net/weixin_45439861/article/details/105665554) <br>
 
 ## Platforms
 ----
