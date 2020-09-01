@@ -67,6 +67,11 @@
 ### Federated Learning and Blockchain
 [On-Device Federated Learning via Blockchain and its Latency Analysis](https://www.semanticscholar.org/paper/On-Device-Federated-Learning-via-Blockchain-and-its-Kim-Park/15d98549fd366566180368abd066da99f17f2d12) 2018.<br>
 [FLchain: Federated Learning via MEC-enabled Blockchain Network](https://www.researchgate.net/publication/336019799_FLchain_Federated_Learning_via_MEC-enabled_Blockchain_Network) Sep. 2019.<br>
+[Flchain: A blockchain for auditable federated learning with trust and incentive](https://ieeexplore.ieee.org/abstract/document/8905038) 2019.<br>
+
+### Federated Learning and Data pricing
+[A learning-based incentive mechanism for federated learning](https://www.u-aizu.ac.jp/~pengli/files/fl_incentive_iot.pdf) 2020.<br>
+[Dynamic Games in Federated Learning Training Service Market](https://ieeexplore.ieee.org/abstract/document/8985096) 2020.<br>
 
 ### Privacy and Security
 ### Incentive Mechanism
