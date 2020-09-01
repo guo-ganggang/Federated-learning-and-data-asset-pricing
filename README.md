@@ -14,7 +14,6 @@
 [EdgeAI: A Vision for Deep Learning in IoT Era](https://arxiv.org/abs/1910.10356), 2019 <br>
 [Machine Learning Systems for Highly-Distributed and Rapidly-Growing Data](https://arxiv.org/abs/1910.08663), 2019 <br>
 [No Peek: A Survey of private distributed deep learning](https://arxiv.org/abs/1812.03288), 2018 <br>
-[CCCF专栏 | 联邦学习](https://mp.weixin.qq.com/s?__biz=MjM5MTY5ODE4OQ==&mid=2651453786&idx=1&sn=1f189cbb8ff159428d65e100fdb5dc77&scene=21), 2019 <br>
 
 ## Research Papers by year
 ----
@@ -108,6 +107,7 @@
 [携手英特尔 平安科技要做联邦智能生态的共创者](http://smartcity.zol.com.cn/728/7283601.html) <br>
 [AI落地遭“卡脖子”困境：为什么说联邦学习是解决良方？](http://smartcity.zol.com.cn/728/7283601.html) <br>
 [干货|杨强教授联邦学习公开课视频及问答整理](https://blog.csdn.net/weixin_45439861/article/details/105665554) <br>
+[CCCF专栏 | 联邦学习](https://mp.weixin.qq.com/s?__biz=MjM5MTY5ODE4OQ==&mid=2651453786&idx=1&sn=1f189cbb8ff159428d65e100fdb5dc77&scene=21), 2019 <br>
 
 ## Platforms
 ----
