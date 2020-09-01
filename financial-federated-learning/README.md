@@ -1,18 +1,19 @@
-
-# SURVEY FOR FL
+# References on Federated Learning
 ## Survey papers
 ----
+[Threats to federated learning: A survey](https://arxiv.org/pdf/2003.02133.pdf), 2020 <br>
+[Survey of Personalization Techniques for Federated Learning](https://arxiv.org/pdf/2003.08673.pdf), 2020 <br>
+[A Survey on Federated Learning Systems: Vision, Hype and Reality for Data Privacy and Protection](https://qinbinli.com/files/FLSurvey.pdf), 2020 <br>
 [Federated Machine Learning: Concept and Applications](https://dl.acm.org/citation.cfm?id=3298981), ACM TIST 2019 <br>
 [Federated Learning Systems: Vision, Hype and Reality for Data Privacy and Protection](https://arxiv.org/pdf/1907.09693.pdf), 2019 <br>
 [Federated Learning: Challenges, Methods, and Future Directions](https://arxiv.org/pdf/1908.07873.pdf), 2019 <br>
-[Federated Learning for Wireless Communications: Motivation, Opportunities and Challenges](https://link.zhihu.com/?target=https%3A//arxiv.org/abs/1908.06847), preprint, 2019 <br>
+[Federated Learning in Mobile Edge Networks: A Comprehensive Survey](https://arxiv.org/pdf/1909.11875.pdf), 2019 <br>
+[Federated Learning for Wireless Communications: Motivation, Opportunities and Challenges](https://arxiv.org/pdf/1908.06847.pdf), 2019 <br>
 [Convergence of Edge Computing and Deep Learning: A Comprehensive Survey](https://arxiv.org/pdf/1907.08349.pdf), 2019 <br>
-[Federated Learning in Mobile Edge Networks: A Comprehensive Survey](https://arxiv.org/abs/1909.11875), 2019 <br>
 [Machine Learning Systems for Highly-Distributed and Rapidly-Growing Data](https://arxiv.org/abs/1910.08663), 2019 <br>
 [EdgeAI: A Vision for Deep Learning in IoT Era](https://arxiv.org/abs/1910.10356), 2019 <br>
 [Machine Learning Systems for Highly-Distributed and Rapidly-Growing Data](https://arxiv.org/abs/1910.08663), 2019 <br>
 [No Peek: A Survey of private distributed deep learning](https://arxiv.org/abs/1812.03288), 2018 <br>
-[CCCF专栏 | 联邦学习](https://mp.weixin.qq.com/s?__biz=MjM5MTY5ODE4OQ==&mid=2651453786&idx=1&sn=1f189cbb8ff159428d65e100fdb5dc77&scene=21), 2019 <br>
 
 ## Research Papers by year
 ----
@@ -105,6 +106,15 @@
 [基于联邦学习新技术连接数据孤岛](https://myslide.cn/slides/21394) <br>
 [携手英特尔 平安科技要做联邦智能生态的共创者](http://smartcity.zol.com.cn/728/7283601.html) <br>
 [AI落地遭“卡脖子”困境：为什么说联邦学习是解决良方？](http://smartcity.zol.com.cn/728/7283601.html) <br>
+[干货|杨强教授联邦学习公开课视频及问答整理](https://blog.csdn.net/weixin_45439861/article/details/105665554) <br>
+[CCCF专栏 | 联邦学习](https://mp.weixin.qq.com/s?__biz=MjM5MTY5ODE4OQ==&mid=2651453786&idx=1&sn=1f189cbb8ff159428d65e100fdb5dc77&scene=21), 2019 <br>
+
+## Book
+----
+[Qiang Yang, Yang Liu, Yong Cheng, Yan Kang, Tianjian Chen, and Han Yu, "Federated Learning", Morgan & Claypool, Dec. 2019](https://www.amazon.com/Federated-Learning-Synthesis-Artificial-Intelligence/dp/1681736977/) <br>
+[e-book](https://www.morganclaypoolpublishers.com/catalog_Orig/product_info.php?products_id=1494) <br>
+[杨强，刘洋，程勇，康焱，陈天健，于涵，《联邦学习》，电子工业出版社，2020年5月。](https://item.jd.com/12649191.html) <br>
+
 
 ## Platforms
 ----
