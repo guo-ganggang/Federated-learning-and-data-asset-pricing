@@ -7,6 +7,7 @@
 [Federated Machine Learning: Concept and Applications](https://dl.acm.org/citation.cfm?id=3298981), ACM TIST 2019 <br>
 [Federated Learning Systems: Vision, Hype and Reality for Data Privacy and Protection](https://arxiv.org/pdf/1907.09693.pdf), 2019 <br>
 [Federated Learning: Challenges, Methods, and Future Directions](https://arxiv.org/pdf/1908.07873.pdf), 2019 <br>
+[Advances and open problems in federated learning](https://arxiv.org/pdf/1912.04977.pdf), 2019 <br>
 [Federated Learning in Mobile Edge Networks: A Comprehensive Survey](https://arxiv.org/pdf/1909.11875.pdf), 2019 <br>
 [Federated Learning for Wireless Communications: Motivation, Opportunities and Challenges](https://arxiv.org/pdf/1908.06847.pdf), 2019 <br>
 [Convergence of Edge Computing and Deep Learning: A Comprehensive Survey](https://arxiv.org/pdf/1907.08349.pdf), 2019 <br>
@@ -83,6 +84,24 @@
 ### Federated Reinforcement Learning
 ### Applications
 
+## Lead researchers
+
+[Qiang Yang (杨强)](https://scholar.google.com/citations?user=1LxWZLQAAAAJ&hl=zh-CN&oi=ao) <br>
+[A Sustainable Incentive Scheme for Federated Learning](https://ieeexplore.ieee.org/abstract/document/9069185) <br>
+[A fairness-aware incentive scheme for federated learning](https://dl.acm.org/doi/abs/10.1145/3375627.3375840) <br>
+
+[Bingsheng He, 何丙胜](https://scholar.google.com/citations?hl=zh-CN&user=bldHpWIAAAAJ&view_op=list_works&sortby=pubdate) <br>
+[The OARF Benchmark Suite: Characterization and Implications for Federated Learning Systems](https://arxiv.org/pdf/2006.07856.pdf) <br>
+[Privacy-Preserving Gradient Boosting Decision Trees](https://www.aaai.org/ojs/index.php/AAAI/article/view/5422) <br>
+
+[Virginia Smith](https://scholar.google.com/citations?hl=zh-CN&user=bldHpWIAAAAJ&view_op=list_works&sortby=pubdate) <br>
+[Federated learning: Challenges, methods, and future directions](https://arxiv.org/pdf/1908.07873.pdf) <br>
+[Learning Context-Aware Policies from Multiple Smart Homes via Federated Multi-Task Learning](https://dl.acm.org/doi/abs/10.1145/3375627.3375840) <br>
+
+[K. A. Bonawitz](https://scholar.google.com/citations?hl=zh-CN&user=R-ndJmYAAAAJ&view_op=list_works&sortby=pubdate) <br>
+[Advances and open problems in federated learning](https://arxiv.org/pdf/1912.04977.pdf) <br>
+[Federated learning with autotuned communication-efficient secure aggregation](https://arxiv.org/pdf/1912.00131.pdf) <br>
+
 ## Tutorials
 [Qiang Yang, Federated Machine Learning Aug. 2019](https://link.zhihu.com/?target=https%3A//img.fedai.org.cn/fedweb/1566285582852.pdf) <br>
 [Qiang Yang, GDPR, Data Shortage and AI Jan. 2019](https://img.fedai.org.cn/fedweb/1552916659436.pdf) <br>
@@ -114,8 +133,6 @@
 [干货|杨强教授联邦学习公开课视频及问答整理](https://blog.csdn.net/weixin_45439861/article/details/105665554) <br>
 [CCCF专栏 | 联邦学习](https://mp.weixin.qq.com/s?__biz=MjM5MTY5ODE4OQ==&mid=2651453786&idx=1&sn=1f189cbb8ff159428d65e100fdb5dc77&scene=21), 2019 <br>
 [李宏宇，雷锋网公开课，知识联邦：开创数据“可用不可见”新局面, Apr. 2020](https://www.leiphone.com/news/202005/NYoNIeUGOhVT1yCT.html) <br>
-
-
 
 
 ## Book
